@@ -101,7 +101,7 @@ self.__precacheManifest = [
   },
   {
     "url": "confidentialite.faa79232.js",
-    "revision": "91e16d4b8fd0c65cf9612c30007b59ef"
+    "revision": "2494cdfcb922cd78f1388594a92741a5"
   },
   {
     "url": "confidentialite.html",
@@ -125,11 +125,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "188a08ea1d047322ef9de6e79ee3b670"
+    "revision": "86cdc494ab5f942e36ae0db9f2d12142"
   },
   {
     "url": "info.96a5d0e5.js",
     "revision": "186c0f67d5b754d9ea623275efc090e1"
+  },
+  {
+    "url": "info.9bf006e2.js",
+    "revision": "3b9bcfc530f11019511f1a2a4026f4f9"
   },
   {
     "url": "info.9e06d9a6.js",
@@ -141,7 +145,7 @@ self.__precacheManifest = [
   },
   {
     "url": "info.cd2bb8c3.js",
-    "revision": "2ea2c3f747ba7c15bc7f01f53f370473"
+    "revision": "c9bf079c3148b47b0e6e59c8a8447283"
   },
   {
     "url": "logo_dnum_dark.0fe33c5b.svg",
@@ -164,6 +168,10 @@ self.__precacheManifest = [
     "revision": "0865caeb5c2a428a429c2677dafe2322"
   },
   {
+    "url": "main.42846e6f.js",
+    "revision": "501993120dc522cc7f6aa607967566c9"
+  },
+  {
     "url": "main.7733169f.js",
     "revision": "0003b11bb5aefa7be89a8f9fe739570c"
   },
@@ -178,6 +186,10 @@ self.__precacheManifest = [
   {
     "url": "main.fb6bbcaf.css",
     "revision": "fc55ff8c2fe78e9081dac04079dc3cc5"
+  },
+  {
+    "url": "main.fb6bbcaf.js",
+    "revision": "0e54c9548a08b586acfad8760266e785"
   },
   {
     "url": "marianne-bold-webfont.1505950c.woff2",
@@ -237,7 +249,7 @@ self.__precacheManifest = [
   },
   {
     "url": "./",
-    "revision": "b2a2387ccff052921eed0cf409176377"
+    "revision": "1a74a69c06aaeab8d6a3cfadfe97e107"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
